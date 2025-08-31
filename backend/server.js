@@ -17,6 +17,3 @@ app.listen(PORT, () =>{
     console.log('Server started at localhost:5000');
 });
 
-//For mongoDB connection Password
-//fenilp1979
-//7587f884mtJMcaZz
